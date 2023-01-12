@@ -1,0 +1,37 @@
+h1 {
+  background-color: brown;
+  border: 90px solid red;
+  padding: 50px;
+  margin: 90px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 900;
+}
+
+.lox7 {
+  width: 400px;
+  align-self: center;
+  rotate: 45deg;
+}
+
+.lox8 {
+  width: 400px;
+  rotate: -45deg;
+}
+header {
+  background-color: fuchsia;
+}
+span {
+  height: 250px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 150px;
+}
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
